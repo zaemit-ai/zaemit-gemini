@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "zaemit": {
+      "serverUrl": "https://zaemit.ai/mcp/gemini"
+    }
+  }
+}
